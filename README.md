@@ -1,3 +1,11 @@
+# ✨ Which Animal...? 
+A Fun Random Animal Game 🎲🐻 Pick an animal, let the machine choose too, and see what fate decides! 🎭 Randomly generated fun questions 🦊 Try your luck and beat the machine! 💻 Built with React 👉 Give it a try and see if you're destined to be a lion or a cockroach! 🦁🪳
+
+![Which Animal start](Screenshots/whichAnimal_1.png)
+![Which Animal You Win](Screenshots/whichAnimal_2.png)
+![Which Animal Random](Screenshots/whichAnimal_3.png)
+![Which Animal Machine Win](Screenshots/whichAnimal_4.png)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
